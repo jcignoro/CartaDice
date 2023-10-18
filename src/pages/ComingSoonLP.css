@@ -1,0 +1,410 @@
+.artboard-1-1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100vh;
+  object-fit: cover;
+}
+.carta-dice {
+  position: absolute;
+  top: 90%;
+  left: calc(50% - 117px);
+  letter-spacing: 0.01em;
+  line-height: 27px;
+  text-transform: uppercase;
+}
+.group-icon {
+  position: absolute;
+  height: 60%;
+  width: 29.43%;
+  top: 20%;
+  right: 33.91%;
+  bottom: 20%;
+  left: 36.67%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.rectangle-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 30px;
+  height: 30px;
+}
+.discord-1-icon,
+.group-wrapper {
+  position: relative;
+  width: 30px;
+  height: 30px;
+}
+.discord-1-icon {
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.group-icon1 {
+  position: absolute;
+  height: 60%;
+  width: 70.77%;
+  top: 20%;
+  right: 15.9%;
+  bottom: 20%;
+  left: 13.33%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.frame-parent {
+  position: absolute;
+  top: 71%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 20px;
+}
+.group-icon2,
+.icon {
+  position: absolute;
+  height: 0.09%;
+  width: 0.05%;
+  top: 63.93%;
+  right: 38.53%;
+  bottom: 35.98%;
+  left: 61.42%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon {
+  height: 4.16%;
+  width: 2.4%;
+  top: 74.71%;
+  right: 45.52%;
+  bottom: 21.14%;
+  left: 52.08%;
+}
+.group-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 80px;
+  background-color: #404eed;
+  box-shadow: 0 8px 40px rgba(64, 78, 237, 0.16);
+  width: 257px;
+  height: 64px;
+}
+.join-our-discord {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 18px;
+  font-weight: 600;
+}
+.group-container,
+.join-our-discord-wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 137px;
+  height: 18px;
+}
+.group-container {
+  top: 23px;
+  left: 40px;
+}
+.rectangle-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 257px;
+  height: 64px;
+}
+.group-inner,
+.group-parent {
+  position: absolute;
+  top: -10px;
+  left: 172px;
+  width: 106px;
+  height: 99px;
+}
+.group-parent {
+  top: 80%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 257px;
+  height: 64px;
+  font-size: var(--font-size-lg);
+  color: var(--color-white);
+  font-family: var(--font-rb-campton-neue-test);
+}
+.layer-1-icon {
+  position: absolute;
+  top: 35%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 100%;
+  height: 166.68px;
+  overflow: hidden;
+}
+.under-construction-child {
+  position: absolute;
+  height: 2%;
+  width: 11.28%;
+  top: 50%;
+  right: 44.35%;
+  bottom: 49.22%;
+  left: 44.38%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.masters-of-horror {
+  position: absolute;
+  top: 43%;
+  left: calc(50% - 212px);
+  font-size: 24px;
+  letter-spacing: -1px;
+  line-height: 150%;
+  font-family: var(--font-possum-saltare-nf);
+  color: var(--color-brown);
+  text-align: left;
+}
+.group-icon3,
+.group-icon4,
+.under-construction-item {
+  position: absolute;
+  height: 2.95%;
+  width: 3.69%;
+  top: 48.51%;
+  right: 0.38%;
+  bottom: 48.54%;
+  left: 95.94%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-icon3,
+.group-icon4 {
+  height: 5.34%;
+  width: 3.15%;
+  top: 89.97%;
+  right: 94.82%;
+  bottom: 4.69%;
+  left: 2.03%;
+}
+.group-icon4 {
+  height: 5.46%;
+  width: 3.08%;
+  top: 3.43%;
+  right: 95.46%;
+  bottom: 91.11%;
+  left: 1.46%;
+}
+.group-icon5,
+.group-icon6,
+.group-icon7,
+.group-icon8,
+.group-icon9 {
+  position: absolute;
+  height: 5.15%;
+  width: 2.83%;
+  top: 2.72%;
+  right: 0.91%;
+  bottom: 92.13%;
+  left: 96.26%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-icon6,
+.group-icon7,
+.group-icon8,
+.group-icon9 {
+  height: 94.67%;
+  width: 1.04%;
+  top: 1.36%;
+  right: 0.83%;
+  bottom: 3.97%;
+  left: 98.13%;
+}
+.group-icon7,
+.group-icon8,
+.group-icon9 {
+  height: 92.59%;
+  top: 3.25%;
+  right: 97.76%;
+  bottom: 4.16%;
+  left: 1.2%;
+}
+.group-icon8,
+.group-icon9 {
+  height: 1.81%;
+  width: 95.21%;
+  top: 93.77%;
+  right: 2.55%;
+  bottom: 4.43%;
+  left: 2.24%;
+}
+.group-icon9 {
+  top: 3.25%;
+  bottom: 94.94%;
+}
+.coming-soon,
+.in-the-shadowed {
+  position: absolute;
+  letter-spacing: 0.01em;
+  line-height: 27px;
+  text-transform: uppercase;
+}
+.in-the-shadowed {
+  top: 55%;
+  left: calc(50% - 316px);
+  display: inline-block;
+  width: 631px;
+  height: 67px;
+}
+.coming-soon {
+  top: 63%;
+  left: calc(50% - 51px);
+  color: var(--color-brown);
+}
+.under-construction {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #0e0e0e;
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+}
+.rectangle-div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 60px;
+  background-color: #1a0f38;
+  box-shadow: 0 8px 24px rgba(14, 7, 32, 0.24);
+  width: 171px;
+  height: 64px;
+}
+.group-frame,
+.twitter-wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 62px;
+  height: 18px;
+}
+.group-frame {
+  top: 23px;
+  left: 75px;
+}
+.rectangle-parent1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 171px;
+  height: 64px;
+}
+.group-child1,
+.group-div {
+  position: absolute;
+  top: 5px;
+  left: 5px;
+  width: 54px;
+  height: 54px;
+}
+.group-div {
+  top: 1241px;
+  left: 307px;
+  width: 171px;
+  height: 64px;
+  font-size: var(--font-size-lg);
+  color: var(--color-white);
+  font-family: var(--font-rb-campton-neue-test);
+}
+.group-icon10 {
+  position: absolute;
+  height: 5.34%;
+  width: 3.15%;
+  top: 89.97%;
+  right: 0.76%;
+  bottom: 4.69%;
+  left: 96.09%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.screen-shot-2023-10-16-at-151 {
+  position: absolute;
+  top: 1420px;
+  left: 658px;
+  width: 68px;
+  height: 56px;
+  object-fit: cover;
+}
+.desktop-1-child {
+  position: absolute;
+  top: 1433.5px;
+  left: 681px;
+  width: 22px;
+  height: 29.5px;
+}
+.desktop-1 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-sm);
+  color: var(--color-gray-100);
+  font-family: var(--font-concert-one);
+}
+
+/**FOR RESPONSIVENESS**/
+
+@media (max-width: 500px) {
+  .layer-1-icon {
+    top: 29%;
+    width: 90%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  .masters-of-horror {
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 18px;
+    text-align: center;
+  }
+  .under-construction-child {
+    top: 45%;
+    width: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  .in-the-shadowed {
+    top: 51%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 14px;
+    width: 90%;
+  }
+  .coming-soon {
+    top: 58%;
+  }
+  .frame-parent {
+    top: 65%;
+  }
+  .group-parent {
+    top: 73%;
+  }
+  .carta-dice {
+    top: 87%;
+  }
+}

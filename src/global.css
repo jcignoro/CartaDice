@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Concert+One:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=RB+Campton+Neue+Test:wght@600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Possum+Saltare+NF:wght@400&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-rb-campton-neue-test: "RB Campton Neue Test";
+  --font-concert-one: "Concert One";
+  --font-possum-saltare-nf: "Possum Saltare NF";
+
+  /* font sizes */
+  --font-size-lg: 18px;
+  --font-size-sm: 14px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-gray-100: #818181;
+  --color-brown: #c33d3d;
+}
